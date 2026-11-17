@@ -1,0 +1,17 @@
+{
+    "name": "MotDoi.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1965444d229d3624e8db109f48bb5585",
+        "GUID:1091d363035fdbb4fa3ec7335e39a4f6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

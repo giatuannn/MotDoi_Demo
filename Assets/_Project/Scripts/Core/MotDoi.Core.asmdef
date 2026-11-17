@@ -1,0 +1,16 @@
+{
+    "name": "MotDoi.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1965444d229d3624e8db109f48bb5585"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
